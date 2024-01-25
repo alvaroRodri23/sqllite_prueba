@@ -17,6 +17,9 @@ class MainActivity : AppCompatActivity() {
         val btnañadir= findViewById<Button>(R.id.btnAñadir)
         val btnvisualizar= findViewById<Button>(R.id.btnVisualizar)
 
+
+
+
         btnañadir.setOnClickListener{
 
 
